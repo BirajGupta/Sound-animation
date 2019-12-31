@@ -2,13 +2,13 @@
 This is a simple application that produces and animations and sounds when keyboard keys are pressed.
 
 ## Technologies used
-1.HTML
-2.CSS
-3.paperScript
-4.Howler.js
+1.HTML<br>
+2.CSS<br>
+3.paperScript<br>
+4.Howler.js<br>
 
 ## To use the application
-1.Fork the repository
-2.Use git clone command
+1.Fork the repository<br>
+2.Use git clone command<br>
 
 Feel free to make add modifications, background, update css.
