@@ -1,4 +1,4 @@
-# Sound-animation
+# Sound-animation(using paperscript/Howler.js)
 This is a simple application that produces and animations and sounds when keyboard keys are pressed.
 
 ## Technologies used
